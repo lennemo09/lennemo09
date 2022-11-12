@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Len.
 - 👀 I’m interested in computational science and imaging. Particularly in the field of astronomy and astrophysics.
 - 🌱 I’m currently learning computational imaging and applied machine learning in science.
-- 
+
 - 📫 I'm currently a Research Assistant at VinUni-Illinois Smart Health Center and Teaching Assistant at VinUniversity.
 
 <!---
