@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational science and imaging. Particularly in the field of astronomy and astrophysics.
 - 🌱 I’m currently learning computational imaging and applied machine learning in science.
 
-- 📫 I'm currently a Research Assistant at VinUni-Illinois Smart Health Center and Teaching Assistant at VinUniversity.
+- 📫 I'm currently a Research Assistant at VinUniversity Digital Material Science Lab and Teaching Assistant at VinUniversity.
 
 <!---
 lennemo09/lennemo09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
