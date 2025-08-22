@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Len.
-- 👀 I’m interested in computational science and imaging. Particularly in the field of astronomy and astrophysics.
-- 🌱 I’m currently learning computational imaging and applied machine learning in science.
+I’m a PhD student in Computer Science at the University of Toronto, and a member of the Computational Imaging for Physical Sciences (CIPS) lab within the Toronto Computational Imaging Group (TCIG).
 
-- 📫 I'm currently a Research Assistant at VinUniversity Digital Material Science Lab and Teaching Assistant at VinUniversity.
+My research centers around scientific imaging, differentiable rendering, and AI for science. I’m broadly interested in how computational approaches can help drive new discoveries in the sciences.
 
+I’m a big fan of animals and nature! 
 <!---
 lennemo09/lennemo09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
