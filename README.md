@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Len.
+#👋 Hi, I’m Len.
   
 I’m a PhD student in Computer Science at the University of Toronto, and a member of the Computational Imaging for Physical Sciences (CIPS) lab within the Toronto Computational Imaging Group (TCIG).
 
